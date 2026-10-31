@@ -375,13 +375,12 @@ This is an academic project. For contributions:
 
 ## 📄 License
 
-This project is part of an academic PFE (Projet de Fin d'Études) with Actia.
+This project is part of an academic Project with Actia.
 
 ---
 
 ## 👨‍💻 Authors
 
-- Project developed as part of PFE Actia
 - Academic project for STM32 development assistance
 
 ---
