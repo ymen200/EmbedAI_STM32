@@ -1,0 +1,99 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.env
+.venv
+env/
+venv/
+ENV/
+.ENV
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Models (large files - uncomment to exclude and use Git LFS)
+# *.pth
+# *.h5
+# *.pkl
+# *.joblib
+# *.onnx
+# *.pb
+
+# Node / VS Code Extension
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+dist/
+out/
+*.log
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+*.bak
+*.backup
+
+# Logs
+logs/
+*.log
+
+# Large datasets
+*.csv
+# Keep essential JSON files for models
+!vocab.json
+!tokenizer_config.json
+!special_tokens_map.json
+!config.json
+!generation_config.json
+!adapter_config.json
+!symbol_table.json
+!added_tokens.json
+!package.json
+!tsconfig.json
+
+# Git
+*.orig
+
+# Documentation interne
+MES_TACHES.md
